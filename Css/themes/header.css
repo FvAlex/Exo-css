@@ -1,0 +1,22 @@
+header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: solid grey 1px;
+    padding: 10px;
+}
+.header_search{
+    margin-left: auto;
+    background-color: white;
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    border-radius: 10px;
+}
+
+.header_search_img{
+    margin-top: 15px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
